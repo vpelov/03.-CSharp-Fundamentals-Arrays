@@ -29,7 +29,6 @@ namespace P01.DayOfWeek
             {
                 Console.WriteLine("Invalid Day!");
             }
-
         }
     }
 }
